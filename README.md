@@ -15,7 +15,7 @@
 - run command "pip install flask"
 
 ## Create MySQL Database
-- install XAMPP 8.0.3
+- install XAMPP 8.0.3 https://sourceforge.net/projects/xampp/files/latest/download
 - start MySQL
 - put file nutriast.sql in your C:\ directory
 - run command "mysql -u root"
