@@ -68,6 +68,8 @@ Google Cloud Platform: Vm's and App Engine, CloudSQL DB, Bucket Storage
 - open your terminal on the file directory
 - run command "virtualenv env"
 - run "env\scripts\activate.bat"
+### Install DB Connector
+- run command "pip install flask-mysql-connector"
 ### Install FLASK
 - run command "pip install flask"
 ### Create MySQL Database
