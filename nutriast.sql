@@ -20,7 +20,7 @@ SET FOREIGN_KEY_CHECKS = 0;
 -- ----------------------------
 -- Table structure for intake
 -- ----------------------------
-DROP TABLE IF EXISTS `intake`;
+DROP TABLE IF EXISTS `intake_users`;
 CREATE TABLE `intake`  (
   `id` int NOT NULL AUTO_INCREMENT,
   `user_id` int NOT NULL,
