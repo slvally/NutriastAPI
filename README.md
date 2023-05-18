@@ -47,7 +47,7 @@ Google Cloud Platform: Vm's and App Engine, CloudSQL DB, Bucket Storage
 -> CaloryNeed (int[11], not null)
 -> FibreNeed (int[11], not null)
 -> CarbohidrateNeed (int[11], not null)
-- Intake users:
+- Table intake_users:
 -> id (primary)
 -> user_id (ForeignKey to users)
 -> HealthStatus (char[16])
